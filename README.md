@@ -36,7 +36,7 @@ Title: `Wuthering Waves`
 7. After downloading **DONT START THE GAME YET** just close the launcher
 
 8. Back to Heroic Launcher, Select Executable
-![](/assets/heroic/2.png)
+![](/assets/heroic/1.png) click the `Folder` icon
 
 9. Navigate to your `WinePrefix drive_c` folder. (e.g. `/home/deck/Games/Heroic/Prefixes/default/Wuthering Waves/pfx/drive_c/Wuthering Waves`) and choose `launcher.exe`
 ![](/assets/heroic/5.png)
@@ -56,7 +56,7 @@ This is the most important part to be able to play the game. Follow the instruct
 3. Create folder inside the `Win64` folder named `Plugins`
 ![](/assets/patching/3.png)
 
-4. Download the `bypass.dll` on this repository it is located on `patch` folder
+4. Download the `bypass.dll` on this repository it is located on `patch` folder or click [here](https://github.com/t4bby/wuthering-waves-linux/raw/main/patch/bypass.dll) to download the file
 
 5. Move the `bypass.dll` into the `Plugins` folder you created
 ![](/assets/patching/4.png)
