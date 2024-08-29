@@ -1,7 +1,8 @@
 ## This modifies the game anti-cheat. Use at your discretion. You've been warned. I am not responsible for any in-game bans.
 
 # Wuthering Weather Linux Installation
-Status: Works as of `June 12, 2024`.
+Status: Doesn't work
+~Works as of `June 12, 2024`.~
 
 
 ## Preview
